@@ -1,4 +1,4 @@
-""" Define funções para criar e iterar autómatos celulares.
+OLÁ""" Define funções para criar e iterar autómatos celulares.
 Na versão actual, está implementado o Jogo da Vida, de Conway, incluindo
 algumas variantes não-standard do mesmo. """
 
